@@ -13,7 +13,7 @@
         android:layout_height="200dp"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="Home Bage"
+        android:text="Home page"
         android:textSize="40sp"
         android:textColor="#018786"/>
 
